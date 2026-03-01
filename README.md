@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hiruni</h1>
-<h3 align="center">IT Undergraduate | Future Software Engineer 🚀</h3>
+<h3 align="center">IT Undergraduate | A passionate Full Stack developer </h3>
 
 ---
 
 ### 🌱 About Me
 - 🎓 IT Undergraduate at University of Kelaniya
 - 💻 Interested in Software Engineering, DevOps & Data Science
-- 🌍 Goal: Travel to Europe
-- 🚀 Currently learning Full Stack Development
+- 🚀 Currently learning Full Stack Development,DevOps
 
 ---
 
