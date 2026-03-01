@@ -26,12 +26,7 @@
 
 ---
 
-## 📊 My Statistics
 
-![Hiruni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiruni-21&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hiruni-21&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiruni-21&layout=compact&theme=tokyonight)
 ## 📊 My Statistics
 
 <p align="center">
