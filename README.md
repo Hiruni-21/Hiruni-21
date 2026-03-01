@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hiruni</h1>
+<h3 align="center">IT Undergraduate | Future Software Engineer 🚀</h3>
 
-<!--
-**Hiruni-21/Hiruni-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌱 About Me
+- 🎓 IT Undergraduate at University of Kelaniya
+- 💻 Interested in Software Engineering, DevOps & Data Science
+- 🌍 Goal: Travel to Europe
+- 🚀 Currently learning Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/hiruni-wedage-4a511833b/))
+
+---
+
+### 🛠 Languages & Tools
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+
+---
+
+### 📊 GitHub Stats
+![Hiruni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiruni-21&show_icons=true&theme=tokyonight)
