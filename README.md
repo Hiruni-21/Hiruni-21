@@ -11,7 +11,7 @@
 ---
 
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/hiruni-wedage-4a511833b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/hiruni-wedage-4a511833b/))
 
 ---
 
